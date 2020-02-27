@@ -1,0 +1,9 @@
+{
+  "name": "cpf",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/igorviniciusavanci/cpf",
+  "author": "Igor Vinicius Avanci Rosa",
+  "license": "MIT",
+  "private": false
+}
